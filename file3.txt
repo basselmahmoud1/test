@@ -1,1 +1,2 @@
-making file3 form master branch while omar having file2 
+making file3 form master branch while omar having file2
+adding new line after omar edit for file2 form master 
