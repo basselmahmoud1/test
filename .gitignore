@@ -1,0 +1,5 @@
+*.o
+*.i
+*.s
+app
+ignoredfile.txt
